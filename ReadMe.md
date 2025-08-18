@@ -1,6 +1,11 @@
 # 💫 About Me:
 I am in Second Semester at UET pursuing BSCS.<br>I am currently working on Sharetribe ( A full stack site that uses Django as backend and React for frontend) <br>I am looking to collabrate on Open source.<br>I am currently learning Web Devlopment.<br>I love to code while listen to music.
 
+## 📜 Certification:
+[![CS50 Certificate](https://cs50.harvard.edu/certificates/f5aa59ca-26eb-4289-af0e-ccf00f4feb78.png?size=A4)](https://cs50.harvard.edu/certificates/f5aa59ca-26eb-4289-af0e-ccf00f4feb78)
+
+> **CS50's Introduction to Computer Science – Harvard University**  
+Click the image to view the official certificate.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajidmehmoodtariq30/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajid-mehmood-tariq/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SajidMTariq) 
