@@ -1,8 +1,13 @@
 # 💫 About Me:
-I am in Second Semester at UET pursuing BSCS.<br>I am currently working on Sharetribe ( A full stack site that uses Django as backend and React for frontend) <br>I am looking to collabrate on Open source.<br>I am currently learning Web Devlopment.<br>I love to code while listen to music.
+I am in Fifth Semester at UET pursuing BSCS.<br>I am currently working on AGezy ( A mobile application for managing resources.) <br>I am looking to collabrate on Open source.<br>I am currently learning Artifical Intelligence.<br>I love to code while listen to music.
 
 ## 📜 Certification:
 [![CS50 Certificate](https://cs50.harvard.edu/certificates/f5aa59ca-26eb-4289-af0e-ccf00f4feb78.png?size=A4)](https://cs50.harvard.edu/certificates/f5aa59ca-26eb-4289-af0e-ccf00f4feb78)
+
+> **CS50's Introduction to Computer Science – Harvard University**  
+Click the image to view the official certificate.
+
+> [![CS50 Certificate](https://cs50.harvard.edu/certificates/fd45fc07-954c-46de-bcbe-1e4597d3426c.png?size=A4)](https://cs50.harvard.edu/certificates/fd45fc07-954c-46de-bcbe-1e4597d3426c)
 
 > **CS50's Introduction to Computer Science – Harvard University**  
 Click the image to view the official certificate.
